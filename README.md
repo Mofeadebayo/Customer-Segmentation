@@ -2,6 +2,18 @@
 
 ### Project title: Customer Segmentation
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
 ### Project Overview
 This Customer segmentation project aims to generate insights into sales performance of the E commerce project over the past years. By analyzing the various parameters in the data received we seek to gather enough insights to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance fromn our data.
 
@@ -43,3 +55,4 @@ WHERE CONDITION = TRUE
 
 ![SALES PERFORMANCE OVERVIEW](https://github.com/user-attachments/assets/e3700d77-9df9-4bab-9805-1ab6b9fe9b9b)
 
+🥇
