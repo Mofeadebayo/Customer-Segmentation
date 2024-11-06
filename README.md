@@ -37,3 +37,9 @@ This is where we include some basic lines of codes or queries or even some of th
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+### Data Visualization
+![CUSTOMER SEGMENTS SNAPSHOT](https://github.com/user-attachments/assets/7d966fd9-8adc-445b-946d-4dc5bc90c86e)
+
+![SALES PERFORMANCE OVERVIEW](https://github.com/user-attachments/assets/e3700d77-9df9-4bab-9805-1ab6b9fe9b9b)
+
